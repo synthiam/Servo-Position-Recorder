@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<PluginV1XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FRIENDLY_NAME>Servo Recorder</FRIENDLY_NAME>
+  <DLL_FILENAME>Servo Position Recorder.dll</DLL_FILENAME>
+  <AUTHOR_NAME>DJ Sures</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>97e9c8e9-11cd-46c9-a651-589fc1847ea4</PLUGIN_GUID>
+  <CATEGORY_TYPE>Servo</CATEGORY_TYPE>
+  <DESCRIPTION />
+  <VersionRelease>11</VersionRelease>
+</PluginV1XML>
